@@ -4,17 +4,18 @@ I'm currently pursuing my Master's degree in Computer Science at the University 
 
 I have also worked as a Learning Assistant for Calculus I at UIC for two semesters, which helped me improve my communication and teamwork skills. Currently, I'm focusing on improving my software engineering and machine learning skills through different projects. My goal is to become a software engineer and gain more experience working on real-world applications. Feel free to explore my projects below!
 
-Technical Skills
-Programming Languages: Python, Java, JavaScript
+## Technical Skills
 
-Tools and Technologies: Git, GitHub, Docker, Flask, HTML, CSS, Kafka
+**Programming Languages:** Python, Java, C++, JavaScript
 
-Areas of Interest: Software Engineering, Machine Learning, Game Development
+**Tools and Technologies:** Git, GitHub, Docker, Flask, HTML, CSS
 
-Featured Projects
+**Areas of Interest:** Software Engineering, Machine Learning, Game Development
 
-Etherium App
+## Featured Projects
+
+### [Etherium App](https://github.com/HisabiaS/etherium-app)
 A journaling application that makes journaling more interactive through gamification features and mood tracking. It focuses on helping users build a journaling habit while keeping track of their emotions.
 
-UniEats
+### [UniEats](https://github.com/HisabiaS/UniEats)
 A web-based application that helps university students discover nearby restaurants and share reviews. It focuses on making it easier for students to explore dining options around their campus.
